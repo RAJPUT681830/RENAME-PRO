@@ -10,23 +10,14 @@
 ### Info
 This is a PowerFull Telegram File Rename and thumbnail & caption Changer Bot with High Speed
 
-### DEPLOYEMENT SUPPORT
-
-<details><summary>Deploy To Koyeb</summary>
-<p>
-<br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/oVo-HxBots/RENAME-PRO&branch=main&name=rename-pro&env[API_HASH]=1&env[API_ID]=1&env[BOT_TOKEN]=1&env[ADMIN]=1&env[DB_URL]=1&env[DB_NAME]=rename-pro&env[FORCE_SUB]=1&env[START_PIC]=https://telegra.ph/file/d4d3bc4272c732c1aba7f.jpg&run_command=python%20bot.py">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
+### DEPLOYEMENT
 
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/oVo-HxBots/RENAME-PRO">
+<a href="https://heroku.com/deploy?template=https://github.com/RAJPUT681830/RENAME-PRO">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -63,17 +54,4 @@ del_caption - delete custom caption
 users - admin only
 broadcast - admin only
 ```
-
-## Follow Me🔥:
-
-
-<p align="left">
-<a href="https://t.me/HxSupport"><img src="https://img.shields.io/badge/Join%20Our%20Group-HxSupport-darkblue?style=for-the-badge&logo=telegram"></a>
-</p>
-<p align="left">
-<a href="https://github.com/oVo-HxBots"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/HxBots"><img src="https://img.shields.io/badge/Instagram-HxBots-magenta?style=for-the-badge&logo=instagram"></a>
-</p>
 
